@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tk", "tk\tk.csproj", "{0E6B2D1C-6906-4BC3-9A66-56F0D403A5A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{9BF25D34-C040-4E0D-B210-6BB20B7935C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6B2D1C-6906-4BC3-9A66-56F0D403A5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6B2D1C-6906-4BC3-9A66-56F0D403A5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6B2D1C-6906-4BC3-9A66-56F0D403A5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6B2D1C-6906-4BC3-9A66-56F0D403A5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF25D34-C040-4E0D-B210-6BB20B7935C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF25D34-C040-4E0D-B210-6BB20B7935C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF25D34-C040-4E0D-B210-6BB20B7935C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF25D34-C040-4E0D-B210-6BB20B7935C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F12DBDCB-6482-4D9A-90AE-CB72F8DA7136}
+	EndGlobalSection
+EndGlobal
